@@ -1,0 +1,2 @@
+# Hry
+Domácí úkol: informatika
